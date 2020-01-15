@@ -49,6 +49,7 @@ server:
 jwtSecret: me.zhulin
 jwtExpiration: 86400
 
+
 # Enable Logging error, debug,info
 logging:
   level:
